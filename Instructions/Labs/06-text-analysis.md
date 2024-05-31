@@ -69,6 +69,8 @@ You can use many Azure AI Language features with either a **Language** or **Azur
    ![An image of the text in the image outlined](media/clr1.png)
       
    >**Note**: Ensure that **Current Language resource** is having the **studio<inject key="DeploymentID" enableCopy="false" />** and proceed further.
+   >
+   >
    >**Note**: If you have only one resource you no need to switch 
  
 1. At the top of the page, select **Language Studio** to return to the Language Studio home page.
