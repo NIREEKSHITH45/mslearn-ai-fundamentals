@@ -17,6 +17,8 @@ In this lab, you will perform:
 ## Architecture Diagram
 
 ![An image](media/lab-04.PNG)
+![Screenshot (24)](https://github.com/NIREEKSHITH45/mslearn-ai-fundamentals/assets/92374933/5aa67cec-eb8e-4a62-a481-b46cf26ebb0f)
+
 
 ## Exercise 1:  Detect faces in Vision Studio 
 
